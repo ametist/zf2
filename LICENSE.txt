@@ -1,3 +1,4 @@
+TEST
 Copyright (c) 2005-2012, Zend Technologies USA, Inc.
 All rights reserved.
 
